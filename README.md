@@ -4,10 +4,10 @@ This is a simple Java application I created for managing a food delivery service
 It also logs every action performed, so you can see what’s been happening in the system.
 
 ## Features
-Order Management:
+* Order Management:
+    * Add, view, update, and delete orders.
+    * Each order contains user info, venue details, and the payment method.
 
-Add, view, update, and delete orders.
-Each order contains user info, venue details, and the payment method.
 Venue Tracking:
 
 Store details about venues, like name, location, menu, and ratings.
