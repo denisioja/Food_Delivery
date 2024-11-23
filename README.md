@@ -19,3 +19,9 @@ It also logs every action performed, so you can see what’s been happening in t
 
 * Action Logs:
    * Logs actions like creating or updating orders in an audit file for tracking.
+
+## Technologies Used
+* Java 8+: Core programming language.
+* CSV Files: Data persistence for orders, venues, and delivery persons.
+* Singleton Design Pattern: Ensures centralized services (e.g., OrderService, CSVReader).
+
